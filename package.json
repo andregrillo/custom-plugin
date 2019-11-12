@@ -1,0 +1,14 @@
+{
+  "name": "com.outsystems.customplugin",
+  "version": "1.0.0",
+  "description": "",
+  "cordova": {
+    "id": "com.outsystems.customplugin",
+    "platforms": []
+  },
+  "keywords": [
+    "ecosystem:cordova"
+  ],
+  "author": "Andre Grillo",
+  "license": "ISC"
+}
